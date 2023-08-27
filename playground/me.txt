@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: Satyam Singh
+Skills: JavaScipt , JAVA ,HTML , CSS ,  NodeJS , ExpressJS , ReactJS , Bootstrap , Git .
+Email: satyamkumar9600@gmail.com
+{{/user}}
